@@ -1,0 +1,23 @@
+{
+  "name": "story_fall_3201",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lundydaniel/story_fall_3201.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lundydaniel/story_fall_3201/issues"
+  },
+  "homepage": "https://github.com/lundydaniel/story_fall_3201#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
